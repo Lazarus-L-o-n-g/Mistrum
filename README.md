@@ -14,7 +14,3 @@ Here you can find schematics, PCB, gerber files, BOMs, binary content for memori
 - PCB for adapter to standard ZX Spectrum system connector
 
 All schematics and PCBs are made using KiCad v5.1.10.
-<<<<<<< HEAD
-=======
-
->>>>>>> initial commit
