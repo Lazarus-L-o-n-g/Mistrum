@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name libs)(type KiCad)(uri "$(KIPRJMOD)/libs")(options "")(descr ""))
+  (lib (name tesla_2)(type KiCad)(uri "$(KIPRJMOD)/tesla_2.pretty")(options "")(descr ""))
+)
