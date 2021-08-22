@@ -7,10 +7,11 @@ Here you can find schematics, PCB, gerber files, BOMs, binary content for memori
 
 # Main parts
 - rerouted PCB for replica of Mistrum computer (less vias and no additional wiring)
-- PCB with original routing (500+ vias and ca. 40 wires)
-- PCB for color video generator
-- PCB for EPROM card
-- PCB for keyboard
-- PCB for adapter to standard ZX Spectrum system connector
+- PCB with original routing (500+ vias and ca. 40 wires)*
+- PCB for color video generator*
+- PCB for EPROM card*
+- PCB for keyboard*
+- PCB for adapter to standard ZX Spectrum system connector*
 
 **All schematics and PCBs are made using KiCad v5.1.10.**
+* will come later
