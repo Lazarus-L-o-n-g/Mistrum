@@ -12,6 +12,7 @@ Here you can find schematics, PCB, gerber files, BOMs, binary content for memori
 - PCB for EPROM card*
 - PCB for keyboard*
 - PCB for adapter to standard ZX Spectrum system connector*
+  * will come later
 
 **All schematics and PCBs are made using KiCad v5.1.10.**
-\* will come later
+
