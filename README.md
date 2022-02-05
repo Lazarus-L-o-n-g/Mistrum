@@ -1,5 +1,5 @@
 # Mistrum
-Mistrum is a legendary czechoslovak functional clone of famous ZX-Spectrum, more details at [8bit-replicas.tech](https://www.8bit-replicas.tech)
+Mistrum is a legendary czechoslovak functional clone of famous ZX-Spectrum, more details at [8bit-replicas.com](https://www.8bit-replicas.com)
 ![IMG_20210711_214109](https://user-images.githubusercontent.com/89099767/129786291-4849a68c-49f7-4a31-9ca0-8c69139bf45b.jpg)
 
 # Repository content
