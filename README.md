@@ -15,5 +15,5 @@ Here you can find schematics, PCB, gerber files, BOMs, binary content for memori
 
 ** will come later
 
-**All schematics and PCBs are made using KiCad v5.1.10.**
+**All schematics and PCBs are made using KiCad.**
 
