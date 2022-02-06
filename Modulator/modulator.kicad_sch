@@ -2641,7 +2641,7 @@
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-00004f51338b)
     (property "Reference" "R14" (id 0) (at 241.3 103.378 90))
-    (property "Value" "82R" (id 1) (at 241.3 105.41 90))
+    (property "Value" "2R2" (id 1) (at 241.3 105.41 90))
     (property "Footprint" "" (id 2) (at 241.3 105.41 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -3141,7 +3141,7 @@
       (reference "R13") (unit 1) (value "82R") (footprint "")
     )
     (path "/00000000-0000-0000-0000-00004f51338b"
-      (reference "R14") (unit 1) (value "82R") (footprint "")
+      (reference "R14") (unit 1) (value "2R2") (footprint "")
     )
     (path "/00000000-0000-0000-0000-00004f5132c4"
       (reference "T1") (unit 1) (value "KC509") (footprint "")
